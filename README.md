@@ -101,6 +101,17 @@ token-billed: `text_input` $4/M, `cached_text_input` $1/M, `image_input` $6.4/M,
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [gpt-image-1-5-api-es](https://github.com/che367a/gpt-image-1-5-api-es)
+- **Same model, other languages** — 9 more language builds: 中文 [gpt-image-1-5-api-cn](https://github.com/tuyjrx9y-ov/gpt-image-1-5-api-cn) · Deutsch [gpt-image-1-5-api-de](https://github.com/zjgnmov3h8k/gpt-image-1-5-api-de) · Français [gpt-image-1-5-api-fr](https://github.com/z8wlz-eflov43/gpt-image-1-5-api-fr) · Relay/gateway [gpt-image-1-5-api-gateway](https://github.com/vacq-bho8n/gpt-image-1-5-api-gateway) · Bahasa [gpt-image-1-5-api-id](https://github.com/x58ngjiip5d/gpt-image-1-5-api-id) · 日本語 [gpt-image-1-5-api-ja](https://github.com/o56hs6/gpt-image-1-5-api-ja) · 한국어 [gpt-image-1-5-api-ko](https://github.com/pwmz6qjcw/gpt-image-1-5-api-ko) · Português [gpt-image-1-5-api-pt](https://github.com/l5v04zk/gpt-image-1-5-api-pt) · Русский [gpt-image-1-5-api-ru](https://github.com/jw6nt/gpt-image-1-5-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [gpt-image-1-5](https://github.com/topics/gpt-image-1-5) · [gpt-image-1-5-api](https://github.com/topics/gpt-image-1-5-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
